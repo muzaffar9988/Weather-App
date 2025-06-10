@@ -1,7 +1,3 @@
-Here's a README.md file for a simple weather app built with HTML, CSS, and JavaScript:
-
-Markdown
-
 # Simple Weather App
 
 A minimalist and interactive web application that displays current weather conditions for a specified city. Built using HTML, CSS, and vanilla JavaScript, this app fetches real-time weather data from a public API.
